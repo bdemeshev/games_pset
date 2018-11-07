@@ -21,5 +21,5 @@ $(file_name).pdf: $(file_name).tex
 # 	Rscript -e "library(knitr); knit('$(file_name).Rnw')"
 
 clean:
-	-rm $(file_name).pdf
+	-rm $(file_name).pdf $(file_name).fls $(file_name).out $(file_name).blg $(file_name).idx $(file_name).ilg $(file_name).fdb_latexmk $(file_name).log $(file_name).ind $(file_name).tdo $(file_name).toc $(file_name).bbl $(file_name).aux
 	# rm $(file_name).tex

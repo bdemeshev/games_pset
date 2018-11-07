@@ -1,3 +1,4 @@
+% !TEX encoding = UTF-8 Unicode
 \documentclass[12pt, a4paper]{article}
 
 
@@ -11,7 +12,10 @@
 \author{Тигр и все-все-все}
 \date{\today}
 
-\newenvironment{source}{}{}
+\newenvironment{source}{\textbf{Источник: }}{\\}
+\newenvironment{rem}{\itshape}{}
+
+
 
 \makeindex % команда для создания предметного указателя
 \bibliographystyle{plain} % стиль оформления ссылок
@@ -30,7 +34,7 @@
 
 
 \usepackage{answers}
-
+\theoremstyle{exersize}
 \newtheorem{problem}{Задача}
 \numberwithin{problem}{section}
 

@@ -1,6 +1,13 @@
 
-games_pset_united.bbl
-
-games_pset_united.tdo
+*.bbl
+*.log
+*.blg
+*.idx
+*.tdo
+*.fdb_latexmk
+*.aux
+*.toc
+*.ind
+*.ilg
 
 all_solutions.tex
