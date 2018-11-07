@@ -1,3 +1,4 @@
+% !TEX encoding = UTF-8 Unicode
 %%%%%%%%%%%%%%%%%%%%%%%  Загрузка пакетов  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % кусок от урсса
 %\usepackage[60x90,headers,11pt]{format}
@@ -9,6 +10,7 @@
 %\evensidemargin=0pt
 %\topmargin=-1pt \headsep=14pt \headheight=22pt \voffset=-28pt
 %\hoffset=-50pt
+
 
 
 \clubpenalty=10000
@@ -52,6 +54,9 @@
 \usepackage{bbm} % шрифт с двойными буквами
 %\usepackage[perpage]{footmisc}
 
+
+
+
 \usepackage{url}
 
 \usepackage{dcolumn} % центрирование по разделителю для apsrtable
@@ -80,6 +85,17 @@
 \usepackage{enumitem} % дополнительные плюшки для списков
 %  например \begin{enumerate}[resume] позволяет продолжить нумерацию в новом списке
 
+\makeatletter
+\def\ctext#1{\expandafter\@ctext\csname c@#1\endcsname}
+\def\@ctext#1{\ifcase#1\or а\or б\or в\or
+г\or д\or е\or ж\or з\or и\or к\or л\or м\fi}
+\makeatother
+\AddEnumerateCounter{\ctext}{\@ctext}{Second}
+
+\renewcommand{\theenumi}{(\ctext{enumi})} % нумерация пунктов буквами русского алфавита
+\renewcommand{\labelenumi}{(\ctext{enumi})}
+\setlist[enumerate]{style=nextline, labelindent=\parindent,leftmargin=*} % новый пункт с новой строки
+
 \usepackage{mathtools}
 \usepackage{cancel,xspace} % sudo yum install texlive-cancel
 
@@ -89,7 +105,17 @@
 \usepackage{numprint} % sudo yum install texlive-numprint
 \npthousandsep{,}\npthousandthpartsep{}\npdecimalsign{.}
 
+\newtheoremstyle{exersize}
+{10pt} % Space above
+{10pt} % Space below
+{\normalfont} % Body font
+{\parindent} % Indent amount
+{\bfseries} % Theorem head font
+{} % Punctuation after theorem head
+{\newline} % Space after theorem head
+{\thmname{#1}\thmnumber{ #2}. \thmnote{ #3}} % Theorem head spec (can be left empty, meaning `normal')
 
+\theoremstyle{exersize} 
 
 \usepackage{subfigure} % для создания нескольких рисунков внутри одного
 
@@ -394,3 +420,4 @@
 % независимо от Лемм и Теорем
 %\newtheorem{prop}{Утверждение}
 %\newtheorem{cor}{Следствие}
+

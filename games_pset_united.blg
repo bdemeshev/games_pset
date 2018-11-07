@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: games_pset_united.aux
+The style file: plain.bst
+Database file #1: opit.bib
+Repeated entry---line 295 of file opit.bib
+ : @book{miller:gtw
+ :                 ,
+I'm skipping whatever remains of this entry
+Warning--to sort, need author or key in kino:mind
+Warning--to sort, need author or key in mti:lectures
+Warning--to sort, need author or key in gt.net
+Warning--empty journal in brams:efcdp
+Warning--empty year in ewerhart:clg
+Warning--empty journal in ferguson:tn
+Warning--empty journal in peterson:epefcd
+Warning--empty publisher in redondo:etg
+Warning--empty year in redondo:etg
+Warning--empty journal in winkler:gpdp
+Warning--empty year in winkler:gpdp
+You've used 31 entries,
+            2118 wiz_defined-function locations,
+            645 strings with 12224 characters,
+and the built_in function-call counts, 6845 in all, are:
+= -- 635
+> -- 235
+< -- 0
++ -- 102
+- -- 68
+* -- 273
+:= -- 1166
+add.period$ -- 103
+call.type$ -- 31
+change.case$ -- 114
+chr.to.int$ -- 0
+cite$ -- 42
+duplicate$ -- 305
+empty$ -- 667
+format.name$ -- 68
+if$ -- 1453
+int.to.chr$ -- 0
+int.to.str$ -- 31
+missing$ -- 33
+newline$ -- 168
+num.names$ -- 56
+pop$ -- 246
+preamble$ -- 1
+purify$ -- 96
+quote$ -- 0
+skip$ -- 202
+stack$ -- 0
+substring$ -- 202
+swap$ -- 27
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 98
+warning$ -- 11
+while$ -- 60
+width$ -- 33
+write$ -- 319
+(There was 1 error message)
