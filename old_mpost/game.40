@@ -1,0 +1,151 @@
+%!PS
+%%BoundingBox: -71 -133 171 49 
+%%HiResBoundingBox: -70.23943 -132.96265 170.34819 48.93549 
+%%Creator: MetaPost 2.00
+%%CreationDate: 2018.11.09:1542
+%%Pages: 1
+%*Font: cmr10 9.96265 9.96265 28:c7ffd47fcf24d47ffaac
+%*Font: cmbx10 9.96265 9.96265 49:84
+%*Font: cmmi10 9.96265 9.96265 16:c0000000080000000000002
+%*Font: cmsy10 9.96265 9.96265 00:8
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor 0 0.5 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
+newpath -60 -80 moveto
+-40 -40 lineto
+-20 -80 lineto stroke
+newpath 20 -80 moveto
+40 -40 lineto
+60 -80 lineto stroke
+newpath -40 -40 moveto
+40 40 lineto
+40 -40 lineto stroke
+ [3 3 ] 0 setdash
+newpath -40 -40 moveto
+40 -40 lineto stroke
+newpath 60 -80 moveto
+140 -80 lineto stroke
+ [] 0 setdash
+newpath 40 -120 moveto
+60 -80 lineto
+80 -120 lineto stroke
+newpath 120 -120 moveto
+140 -80 lineto
+160 -120 lineto stroke
+newpath 40 40 moveto
+140 -80 lineto stroke
+-70.23943 -90.47198 moveto
+(\(4;2\)) cmr10 9.96265 fshow
+ 0 3 dtransform truncate idtransform setlinewidth pop
+newpath -60 -80 moveto 0 0 rlineto stroke
+-30.23943 -90.47198 moveto
+(\(3;1\)) cmr10 9.96265 fshow
+newpath -20 -80 moveto 0 0 rlineto stroke
+9.76057 -90.47198 moveto
+(\(2;3\)) cmr10 9.96265 fshow
+newpath 20 -80 moveto 0 0 rlineto stroke
+29.76057 -130.47198 moveto
+(\(5;4\)) cmr10 9.96265 fshow
+newpath 40 -120 moveto 0 0 rlineto stroke
+69.76057 -130.47198 moveto
+(\(2;0\)) cmr10 9.96265 fshow
+newpath 80 -120 moveto 0 0 rlineto stroke
+109.76057 -130.47198 moveto
+(\(3;1\)) cmr10 9.96265 fshow
+newpath 120 -120 moveto 0 0 rlineto stroke
+149.76057 -130.47198 moveto
+(\(0;2\)) cmr10 9.96265 fshow
+newpath 160 -120 moveto 0 0 rlineto stroke
+28.93372 42.09999 moveto
+(N) cmbx10 9.96265 fshow
+newpath 40 40 moveto 0 0 rlineto stroke
+-47.3448 -43.41776 moveto
+(I) cmbx10 9.96265 fshow
+newpath -40 -40 moveto 0 0 rlineto stroke
+143 -83.41776 moveto
+(I) cmbx10 9.96265 fshow
+147.663 -83.41776 moveto
+(I) cmbx10 9.96265 fshow
+newpath 140 -80 moveto 0 0 rlineto stroke
+9.2044 -35.4093 moveto
+([1) cmr10 9.96265 fshow
+19.167 -35.4093 moveto
+(\000) cmsy10 9.96265 fshow
+29.12961 -35.4093 moveto
+(\026) cmmi10 9.96265 fshow
+35.13261 -35.4093 moveto
+(]) cmr10 9.96265 fshow
+newpath 40 -40 moveto 0 0 rlineto stroke
+-45.7689 -34.50928 moveto
+([) cmr10 9.96265 fshow
+-43.00151 -34.50928 moveto
+(\026) cmmi10 9.96265 fshow
+-36.9985 -34.50928 moveto
+(]) cmr10 9.96265 fshow
+newpath -40 -40 moveto 0 0 rlineto stroke
+62.09999 -75.4093 moveto
+([) cmr10 9.96265 fshow
+64.86739 -75.4093 moveto
+(\027) cmmi10 9.96265 fshow
+70.42299 -75.4093 moveto
+(]) cmr10 9.96265 fshow
+newpath 60 -80 moveto 0 0 rlineto stroke
+142.09999 -75.4093 moveto
+([1) cmr10 9.96265 fshow
+152.06259 -75.4093 moveto
+(\000) cmsy10 9.96265 fshow
+162.02519 -75.4093 moveto
+(\027) cmmi10 9.96265 fshow
+167.5808 -75.4093 moveto
+(]) cmr10 9.96265 fshow
+newpath 140 -80 moveto 0 0 rlineto stroke
+-33.12589 4.03719 moveto
+(p) cmmi10 9.96265 fshow
+-25.34608 4.03719 moveto
+(=) cmr10 9.96265 fshow
+-14.82999 4.03719 moveto
+(0) cmr10 9.96265 fshow
+-9.84868 4.03719 moveto
+(:) cmmi10 9.96265 fshow
+-7.08128 4.03719 moveto
+(3) cmr10 9.96265 fshow
+6.87411 4.03719 moveto
+(p) cmmi10 9.96265 fshow
+14.65392 4.03719 moveto
+(=) cmr10 9.96265 fshow
+25.17001 4.03719 moveto
+(0) cmr10 9.96265 fshow
+30.15132 4.03719 moveto
+(:) cmmi10 9.96265 fshow
+32.91872 4.03719 moveto
+(2) cmr10 9.96265 fshow
+74.10072 5.6363 moveto
+(p) cmmi10 9.96265 fshow
+81.88052 5.6363 moveto
+(=) cmr10 9.96265 fshow
+92.39662 5.6363 moveto
+(0) cmr10 9.96265 fshow
+97.37793 5.6363 moveto
+(:) cmmi10 9.96265 fshow
+100.14532 5.6363 moveto
+(5) cmr10 9.96265 fshow
+-57.98134 -62.14474 moveto
+(a) cmr10 9.96265 fshow
+-27 -63.45926 moveto
+(b) cmr10 9.96265 fshow
+22.01866 -62.14474 moveto
+(a) cmr10 9.96265 fshow
+53 -63.45926 moveto
+(b) cmr10 9.96265 fshow
+42.57214 -102.14474 moveto
+(c) cmr10 9.96265 fshow
+73 -103.45926 moveto
+(d) cmr10 9.96265 fshow
+122.57214 -102.14474 moveto
+(c) cmr10 9.96265 fshow
+153 -103.45926 moveto
+(d) cmr10 9.96265 fshow
+showpage
+%%EOF

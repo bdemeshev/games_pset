@@ -1,0 +1,117 @@
+%!PS
+%%BoundingBox: -71 -73 71 73 
+%%HiResBoundingBox: -70.23943 -72.96265 70.23941 72.96265 
+%%Creator: MetaPost 2.00
+%%CreationDate: 2018.11.09:1542
+%%Pages: 1
+%*Font: cmr10 9.96265 9.96265 28:c7ff147fcf24d4647aac
+%*Font: cmbx10 9.96265 9.96265 49:84
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor 0 0.5 dtransform truncate idtransform setlinewidth pop
+ [3 3 ] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
+newpath -40 40 moveto
+40 40 lineto stroke
+newpath -40 -40 moveto
+40 -40 lineto stroke
+ [] 0 setdash
+newpath -40 40 moveto
+-40 0 lineto
+0 0 lineto
+40 0 lineto
+40 40 lineto stroke
+ 0.5 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath -40 -40 moveto
+-40 0 lineto stroke
+newpath 40 -40 moveto
+40 0 lineto stroke
+ 0 0.5 dtransform truncate idtransform setlinewidth pop
+newpath -60 60 moveto
+-40 40 lineto
+-20 60 lineto stroke
+newpath 20 60 moveto
+40 40 lineto
+60 60 lineto stroke
+newpath -60 -60 moveto
+-40 -40 lineto
+-20 -60 lineto stroke
+newpath 20 -60 moveto
+40 -40 lineto
+60 -60 lineto stroke
+-4.48315 -9.8355 moveto
+(N) cmbx10 9.96265 fshow
+ 0 3 dtransform truncate idtransform setlinewidth pop
+newpath 0 0 moveto 0 0 rlineto stroke
+-47.3448 -3.41776 moveto
+(I) cmbx10 9.96265 fshow
+newpath -40 0 moveto 0 0 rlineto stroke
+43 -3.41776 moveto
+(I) cmbx10 9.96265 fshow
+newpath 40 0 moveto 0 0 rlineto stroke
+-52.0078 36.58224 moveto
+(I) cmbx10 9.96265 fshow
+-47.3448 36.58224 moveto
+(I) cmbx10 9.96265 fshow
+newpath -40 40 moveto 0 0 rlineto stroke
+-52.0078 -43.41776 moveto
+(I) cmbx10 9.96265 fshow
+-47.3448 -43.41776 moveto
+(I) cmbx10 9.96265 fshow
+newpath -40 -40 moveto 0 0 rlineto stroke
+-70.23943 65.49066 moveto
+(\(2;2\)) cmr10 9.96265 fshow
+newpath -60 60 moveto 0 0 rlineto stroke
+-30.23943 65.49066 moveto
+(\(1;3\)) cmr10 9.96265 fshow
+newpath -20 60 moveto 0 0 rlineto stroke
+9.76057 65.49066 moveto
+(\(3;2\)) cmr10 9.96265 fshow
+newpath 20 60 moveto 0 0 rlineto stroke
+49.76057 65.49066 moveto
+(\(2;0\)) cmr10 9.96265 fshow
+newpath 60 60 moveto 0 0 rlineto stroke
+-70.23943 -70.47198 moveto
+(\(1;2\)) cmr10 9.96265 fshow
+newpath -60 -60 moveto 0 0 rlineto stroke
+-30.23943 -70.47198 moveto
+(\(2;1\)) cmr10 9.96265 fshow
+newpath -20 -60 moveto 0 0 rlineto stroke
+9.76057 -70.47198 moveto
+(\(2;3\)) cmr10 9.96265 fshow
+newpath 20 -60 moveto 0 0 rlineto stroke
+49.76057 -70.47198 moveto
+(\(3;0\)) cmr10 9.96265 fshow
+newpath 60 -60 moveto 0 0 rlineto stroke
+-50.472 16.5961 moveto
+(U) cmr10 9.96265 fshow
+29.528 16.5961 moveto
+(U) cmr10 9.96265 fshow
+-50.61037 -23.4039 moveto
+(D) cmr10 9.96265 fshow
+29.38963 -23.4039 moveto
+(D) cmr10 9.96265 fshow
+-55.76741 46.54074 moveto
+(l) cmr10 9.96265 fshow
+24.23259 46.54074 moveto
+(l) cmr10 9.96265 fshow
+-55.76741 -53.45926 moveto
+(l) cmr10 9.96265 fshow
+24.23259 -53.45926 moveto
+(l) cmr10 9.96265 fshow
+-27 47.85526 moveto
+(r) cmr10 9.96265 fshow
+53 47.85526 moveto
+(r) cmr10 9.96265 fshow
+-27 -52.14474 moveto
+(r) cmr10 9.96265 fshow
+53 -52.14474 moveto
+(r) cmr10 9.96265 fshow
+-33.00684 4.9372 moveto
+(p=0.5) cmr10 9.96265 fshow
+6.99316 4.9372 moveto
+(p=0.5) cmr10 9.96265 fshow
+newpath 40 40 moveto 0 0 rlineto stroke
+newpath 40 -40 moveto 0 0 rlineto stroke
+showpage
+%%EOF

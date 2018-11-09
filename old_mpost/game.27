@@ -1,0 +1,165 @@
+%!PS
+%%BoundingBox: -4 -10 104 90 
+%%HiResBoundingBox: -3.90897 -9.8078 103.25171 89.8078 
+%%Creator: MetaPost 2.00
+%%CreationDate: 2018.11.09:1542
+%%Pages: 1
+%*Font: cmr10 9.96265 9.96265 28:c5ff147fcf20d4000aac
+%%BeginProlog
+%%EndProlog
+%%Page: 1 1
+ 0 0 0 setrgbcolor 0 0.5 dtransform truncate idtransform setlinewidth pop
+ [] 0 setdash 1 setlinecap 1 setlinejoin 10 setmiterlimit
+newpath 0 80 moveto
+40 80 lineto stroke
+newpath 32.1217 78.61086 moveto
+40 80 lineto
+32.1217 81.38914 lineto
+ closepath
+gsave fill grestore stroke
+newpath 0 80 moveto
+20 40 lineto stroke
+newpath 15.23434 46.42519 moveto
+20 40 lineto
+17.71927 47.66765 lineto
+ closepath
+gsave fill grestore stroke
+ 0.5 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath 0 80 moveto
+0 0 lineto stroke
+ 0 0.5 dtransform truncate idtransform setlinewidth pop
+newpath -1.38924 7.87889 moveto
+0 0 lineto
+1.38924 7.87889 lineto
+ closepath
+gsave fill grestore stroke
+newpath 40 80 moveto
+60 40 lineto stroke
+newpath 55.23434 46.42519 moveto
+60 40 lineto
+57.71927 47.66765 lineto
+ closepath
+gsave fill grestore stroke
+newpath 40 80 moveto
+80 80 lineto stroke
+newpath 72.1217 78.61086 moveto
+80 80 lineto
+72.1217 81.38914 lineto
+ closepath
+gsave fill grestore stroke
+ 0.5 0 dtransform exch truncate exch idtransform pop setlinewidth
+newpath 80 80 moveto
+80 0 lineto stroke
+ 0 0.5 dtransform truncate idtransform setlinewidth pop
+newpath 78.61076 7.87889 moveto
+80 0 lineto
+81.38924 7.87889 lineto
+ closepath
+gsave fill grestore stroke
+newpath 20 40 moveto
+40 80 lineto stroke
+newpath 37.71927 72.33235 moveto
+40 80 lineto
+35.23434 73.57481 lineto
+ closepath
+gsave fill grestore stroke
+newpath 20 40 moveto
+80 0 lineto stroke
+newpath 72.67375 3.21452 moveto
+80 0 lineto
+74.21498 5.52635 lineto
+ closepath
+gsave fill grestore stroke
+newpath 20 40 moveto
+80 80 lineto stroke
+newpath 74.21498 74.47365 moveto
+80 80 lineto
+72.67375 76.78548 lineto
+ closepath
+gsave fill grestore stroke
+newpath 60 40 moveto
+100 40 lineto stroke
+newpath 92.1217 38.61086 moveto
+100 40 lineto
+92.1217 41.38914 lineto
+ closepath
+gsave fill grestore stroke
+newpath 0 0 moveto
+20 40 lineto stroke
+newpath 17.71927 32.33235 moveto
+20 40 lineto
+15.23434 33.57481 lineto
+ closepath
+gsave fill grestore stroke
+newpath 0 0 moveto
+40 0 lineto stroke
+newpath 32.1217 -1.38914 moveto
+40 0 lineto
+32.1217 1.38914 lineto
+ closepath
+gsave fill grestore stroke
+newpath 40 0 moveto
+60 40 lineto stroke
+newpath 57.71927 32.33235 moveto
+60 40 lineto
+55.23434 33.57481 lineto
+ closepath
+gsave fill grestore stroke
+newpath 40 0 moveto
+80 0 lineto stroke
+newpath 72.1217 -1.38914 moveto
+80 0 lineto
+72.1217 1.38914 lineto
+ closepath
+gsave fill grestore stroke
+newpath 80 0 moveto
+60 40 lineto stroke
+newpath 64.76566 33.57481 moveto
+60 40 lineto
+62.28073 32.33235 lineto
+ closepath
+gsave fill grestore stroke
+newpath 80 80 moveto
+60 40 lineto stroke
+newpath 62.28073 47.66765 moveto
+60 40 lineto
+64.76566 46.42519 lineto
+ closepath
+gsave fill grestore stroke
+newpath 60 40 moveto
+0 80 lineto stroke
+newpath 7.32625 76.78548 moveto
+0 80 lineto
+5.78502 74.47365 lineto
+ closepath
+gsave fill grestore stroke
+-3.73601 83 moveto
+(A) cmr10 9.96265 fshow
+ 0 3 dtransform truncate idtransform setlinewidth pop
+newpath 0 80 moveto 0 0 rlineto stroke
+36.47154 83 moveto
+(B) cmr10 9.96265 fshow
+newpath 40 80 moveto 0 0 rlineto stroke
+76.40236 83 moveto
+(C) cmr10 9.96265 fshow
+newpath 80 80 moveto 0 0 rlineto stroke
+9.38963 36.5961 moveto
+(D) cmr10 9.96265 fshow
+newpath 20 40 moveto 0 0 rlineto stroke
+50.21985 36.5961 moveto
+(E) cmr10 9.96265 fshow
+newpath 60 40 moveto 0 0 rlineto stroke
+96.74829 43 moveto
+(F) cmr10 9.96265 fshow
+newpath 100 40 moveto 0 0 rlineto stroke
+-3.90897 -9.8078 moveto
+(G) cmr10 9.96265 fshow
+newpath 0 0 moveto 0 0 rlineto stroke
+36.26399 -9.8078 moveto
+(H) cmr10 9.96265 fshow
+newpath 40 0 moveto 0 0 rlineto stroke
+78.20119 -9.8078 moveto
+(I) cmr10 9.96265 fshow
+newpath 80 0 moveto 0 0 rlineto stroke
+showpage
+%%EOF
