@@ -5,7 +5,7 @@ file_name = games_pset_united
 
 all: $(file_name).pdf
 
-$(file_name).pdf: $(file_name).tex
+$(file_name).pdf: $(file_name).tex problems_bank.tex
 	# protection against biber error
 	# http://tex.stackexchange.com/questions/140814/
 	rm -rf `biber --cache`
