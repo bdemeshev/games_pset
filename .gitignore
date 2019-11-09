@@ -1,4 +1,7 @@
-
+_minted*
+*.xdv
+*.synctex.gz
+*.fls
 *.bbl
 *.log
 *.blg

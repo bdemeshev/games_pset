@@ -12,7 +12,7 @@ $(file_name).pdf: $(file_name).tex problems_bank.tex
 
 	# create pdf
 	# will automatically run pdflatex/biber if necessary
-	latexmk -pdf $(file_name).tex
+	latexmk -xelatex $(file_name).tex
 
 	# clean auxillary files
 	latexmk -c $(file_name).tex
